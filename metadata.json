@@ -1,0 +1,6 @@
+{
+  "name": "Zenvora – Premium Fashion & AI Stylist",
+  "description": "Discover luxury fashion for men and women at Zenvora. Shop trending apparel, curated collections, and get personal outfit recommendations with our AI Fashion Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
